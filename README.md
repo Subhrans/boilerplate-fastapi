@@ -1,4 +1,4 @@
-# HiFi
+# FAST API
 
 ## How to start?
 Run `pip install -r requirements.txt`
